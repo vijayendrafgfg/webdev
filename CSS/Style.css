@@ -260,8 +260,39 @@ h3 a:hover
   color: #1167a8;
 }
 
-#artilc-Summary
+#article-Summary
 {
 color: 5a5a5a;
-width: 200px;
+width: 240px;
+float: left;
+}
+
+#article-Summary a
+{
+text-decoration: none;
+color:  #a91717;
+border-left: 1px solid #cccccc;
+padding-left: 10px;
+
+}
+
+#article-Summary a:hover
+{
+color: #1167a8;
+}
+#date
+{
+  padding-right: 10px;
+}
+
+#article-container
+{
+  float: left;
+  width: 700px;
+}
+#security-Image
+{
+  height: 35%;
+  width:35%;
+  margin-left: 20px;
 }
