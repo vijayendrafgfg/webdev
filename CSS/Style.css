@@ -296,3 +296,10 @@ color: #1167a8;
   width:35%;
   margin-left: 20px;
 }
+
+#artilce_hr
+{
+  border-top: 1.5px solid #a91717;
+  width: 30px;
+  float: left;
+}
